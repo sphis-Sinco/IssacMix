@@ -5,6 +5,9 @@
   "assetPath": "characters/issac sprites",
   "flipX": true,
   "singTime": 8.0,
+  "healthIcon": {
+    "id": "issac"
+  },
   "animations": [
     {
       "name": "idle",
