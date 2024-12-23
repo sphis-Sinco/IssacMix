@@ -1,0 +1,81 @@
+﻿<TextureAtlas imagePath="issac_cs.png">
+	<SubTexture name="issac cs confirm0000" x="0" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0001" x="0" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0002" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0003" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0004" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0005" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0006" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs confirm0007" x="571" y="0" width="571" height="671"/>
+	<SubTexture name="issac cs deselect0000" x="1142" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0001" x="1142" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0002" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0003" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0004" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0005" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0006" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0007" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0008" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0009" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0010" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0011" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0012" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0013" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0014" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0015" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0016" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0017" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0018" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs deselect0019" x="1708" y="0" width="566" height="669"/>
+	<SubTexture name="issac cs idle0000" x="2274" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0001" x="2274" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0002" x="2849" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0003" x="2849" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0004" x="3424" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0005" x="3424" y="0" width="575" height="671"/>
+	<SubTexture name="issac cs idle0006" x="0" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0007" x="0" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0008" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0009" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0010" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0011" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0012" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0013" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac cs idle0014" x="575" y="671" width="575" height="671"/>
+	<SubTexture name="issac slide in0000" x="1150" y="671" width="981" height="697"/>
+	<SubTexture name="issac slide in0001" x="2131" y="671" width="981" height="697"/>
+	<SubTexture name="issac slide in0002" x="3112" y="671" width="981" height="697"/>
+	<SubTexture name="issac slide in0003" x="3112" y="671" width="981" height="697"/>
+	<SubTexture name="issac slide in0004" x="0" y="1368" width="981" height="697"/>
+	<SubTexture name="issac slide in0005" x="0" y="1368" width="981" height="697"/>
+	<SubTexture name="issac slide in0006" x="981" y="1368" width="981" height="697"/>
+	<SubTexture name="issac slide in0007" x="981" y="1368" width="981" height="697"/>
+	<SubTexture name="issac slide out0000" x="1962" y="1368" width="736" height="689"/>
+	<SubTexture name="issac slide out0001" x="2698" y="1368" width="736" height="689"/>
+	<SubTexture name="issac unlocked0000" x="3434" y="1368" width="590" height="794"/>
+	<SubTexture name="issac unlocked0001" x="0" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0002" x="0" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0003" x="0" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0004" x="590" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0005" x="590" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0006" x="590" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0007" x="1180" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0008" x="1180" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0009" x="1770" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0010" x="1770" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0011" x="2360" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0012" x="2950" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0013" x="2950" y="2162" width="590" height="794"/>
+	<SubTexture name="issac unlocked0014" x="0" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0015" x="0" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0016" x="590" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0017" x="590" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0018" x="1180" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0019" x="1180" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0020" x="1770" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0021" x="1770" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0022" x="2360" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0023" x="2360" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0024" x="2950" y="2956" width="590" height="794"/>
+	<SubTexture name="issac unlocked0025" x="2950" y="2956" width="590" height="794"/>
+</TextureAtlas>

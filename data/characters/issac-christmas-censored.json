@@ -1,0 +1,95 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-18, -247],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-16, -254],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [35, -278],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-23, -226],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-34, -249],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-34, -249],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-16, -254],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "leftm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-23, -226],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [35, -278],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downm",
+			"indices": []
+		},
+		{
+			"offsets": [-26, -232],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey!"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/issac sprites christmas censored",
+	"position": [0, 0],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [0, 255, 169],
+	"camera_position": [70, 280],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

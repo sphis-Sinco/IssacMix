@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="issacpixel.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="confirm0000" x="57" y="48" width="45" height="30" frameX="-2" frameY="-6" frameWidth="45" frameHeight="30"/>
+	<SubTexture name="confirm0001" x="57" y="48" width="45" height="30" frameX="-2" frameY="-6" frameWidth="45" frameHeight="30"/>
+	<SubTexture name="confirm0002" x="4" y="4" width="49" height="24" frameX="0" frameY="-12" frameWidth="49" frameHeight="36"/>
+	<SubTexture name="confirm0003" x="4" y="4" width="49" height="24" frameX="0" frameY="-12" frameWidth="49" frameHeight="36"/>
+	<SubTexture name="confirm0004" x="61" y="4" width="41" height="36" frameX="-2" frameY="0" frameWidth="49" frameHeight="36"/>
+	<SubTexture name="confirm0005" x="61" y="4" width="41" height="36" frameX="-2" frameY="0" frameWidth="49" frameHeight="36"/>
+	<SubTexture name="confirm0006" x="4" y="48" width="45" height="32" frameX="-1" frameY="-4" frameWidth="45" frameHeight="32"/>
+	<SubTexture name="confirm0007" x="4" y="48" width="45" height="32" frameX="-1" frameY="-4" frameWidth="45" frameHeight="32"/>
+	<SubTexture name="confirm-hold0000" x="4" y="48" width="45" height="32"/>
+	<SubTexture name="idle0000" x="57" y="48" width="45" height="30"/>
+</TextureAtlas>
