@@ -1,0 +1,60 @@
+{
+  "version": "1.0.0",
+  "name": "Issac Opponent",
+  "renderType": "multisparrow",
+  "assetPath": "characters/issac sprites",
+  "flipX": true,
+  "singTime": 8.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "offsets": [-18, -247]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "left0",
+	  "offsets": [-16, -254]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "down0",
+      "offsets": [-15, -278]
+    },
+    {
+      "name": "singUP",
+      "prefix": "up0",
+      "offsets": [-28, -226]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "right0",
+      "offsets": [-34, -249]
+    },
+    {
+      "name": "singRIGHTmiss",
+      "prefix": "leftmiss",
+      "offsets": [12, 24]
+    },
+    {
+      "name": "singDOWNmiss",
+      "prefix": "downmiss",
+      "offsets": [-15, -278]
+    },
+    {
+      "name": "singUPmiss",
+      "prefix": "upmiss",
+      "offsets": [-28, -226]
+    },
+    {
+      "name": "singLEFTmiss",
+      "prefix": "rightmiss",
+      "offsets": [-34, -249]
+    },
+    {
+      "name": "hey",
+      "prefix": "hey!",
+      "offsets": [-26, -232]
+    }
+  ]
+}
