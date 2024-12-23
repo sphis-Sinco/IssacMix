@@ -1,0 +1,85 @@
+import flixel.FlxG;
+import flixel.text.FlxText;
+
+import funkin.util.Constants;
+
+import funkin.Conductor;
+import funkin.Paths;
+
+import funkin.play.PlayState;
+
+import funkin.ui.credits.CreditsState;
+// import funkin.ui.credits.CreditsData;
+import funkin.ui.credits.CreditsDataHandler;
+import funkin.ui.mainmenu.MainMenuState;
+import funkin.ui.AtlasMenuItem;
+
+import funkin.modding.base.ScriptedMusicBeatState;
+import funkin.modding.module.Module;
+
+class CreditsText extends Module
+{
+	public function new()
+	{
+		// Create a module with the ID 'credits-text'
+		super('credits-text');
+	}
+
+	public var modSongs:Array<String> = ['approval'];
+
+	/**
+	 * Event called after changing to a new state.
+	 */
+	public function onStateChangeEnd(event:StateChangeScriptEvent)
+	{
+		var credits:Bool = Std.isOfType(event.targetState, CreditsState);
+        var coolCreds:Dynamic = {
+                    header: "Friday Night Funkin' Issac Mix Mod",
+                    body: [
+                    { line: "A Friday Night Funkin' Modification created by" },
+                    { line: "0228alex99122" },
+                    { line: "Sinco" },
+                    { line: "midygamy" },
+                    { line: "Nekuseru" },
+                    { line: "IluvPurple14" },
+                    { line: "MigBR" },
+                    { line: "TateNewG" },
+                    { line: "MK395179966" },
+                    { line: "MidyGamy" },
+                    { line: "ivan_NRG" },
+                    { line: "squeesheeng" },
+                    { line: "pompeysucks" },
+                    { line: "tnrs" },
+                    { line: "TheMaskedStr" },
+                    { line: "Nicolenta" },
+                    { line: "Chef" },
+                    { line: "laty14k" },
+                    { line: "sprunky tlunky" },
+                    { line: "StayBurnt" },
+                    { line: "bulbman-4ni." },
+                    { line: "thecomposerdude036" },
+                    { line: "Darx" },
+                    { line: "okurasedekumaharakuaglassethence" },
+                    { line: "hotcream" },
+                    { line: "r4ndmm" },
+                    { line: "wallpaper0" },
+                    { line: "ahhhhhmaskboi" },
+                    { line: "Imcxden" },
+                    { line: "tanjirosecretballs69" },
+                    { line: "Totallynotian" },
+                    { line: "syn" },
+                    { line: "Local Darkner" }
+                   ]
+                };
+        var creditsData:Dynamic = CreditsDataHandler.CREDITS_DATA.entries;
+
+		if (credits)
+        {
+            trace('MOD CREDITS WEEEE');
+
+           if (creditsData[0] != coolCreds) CreditsDataHandler.CREDITS_DATA.entries.insert(0, coolCreds);
+
+            // trace(CreditsDataHandler.CREDITS_DATA);
+        }
+	}
+}
