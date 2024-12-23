@@ -1,19 +1,17 @@
 {
   "version": "1.0.0",
   "name": "Issac",
-  "ownedChars": ["bf", "bf-car", "bf-pixel", "bf-christmas", "bf-holding-gf"],
+  "ownedChars": [
+    "issac",
+    "issac-censored",
+    "issac-christmas",
+    "issac-christmas-censored"
+  ],
   "showUnownedChars": true,
   "unlocked": true,
   "freeplayStyle": "bf",
   "freeplayDJ": {
-    "assetPath": "freeplay/freeplay-issac",
-    "cartoon": {
-      "soundClickFrame": 80,
-      "soundCartoonFrame": 85,
-      "loopBlinkFrame": 112,
-      "loopFrame": 166,
-      "channelChangeFrame": 60
-    },
+    "assetPath": "freeplay/freeplay-boyfriend",
     "fistPump": {
       "introStartFrame": 0,
       "introEndFrame": 4,
@@ -72,7 +70,7 @@
     ]
   },
   "charSelect": {
-    "position":5,
+    "position": 5,
     "gf": {
       "assetPath": "charSelect/gfChill",
       "animInfoPath": "charSelect/gfAnimInfo",
