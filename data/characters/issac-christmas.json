@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "Issac",
   "renderType": "multisparrow",
-  "assetPath": "characters/issac sprites CHIRSTMAS",
+  "assetPath": "characters/issac sprites CHRISTMAS",
   "flipX": true,
   "singTime": 8.0,
   "healthIcon": {
